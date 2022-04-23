@@ -1,1 +1,1 @@
-DOMAIN-SUFFIX,*.*,PROXY
+user-agent, *, proxy
