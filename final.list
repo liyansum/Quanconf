@@ -1,1 +1,3 @@
-user-agent, *, proxy
+ip-cidr, 183.232.25.151/32, reject
+host, embyaz.misakaf.xyz, 国际媒体
+host, emby.misakaf.xyz, 国际媒体
