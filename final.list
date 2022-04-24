@@ -1,5 +1,4 @@
 #普通拦截
-host,embyaz.misakaf.xyz,免流
 host-suffix,pstatp.com, 网络防护
 host-suffix,whrq.net, 网络防护
 ip-cidr, 183.232.25.151/32, 网络防护
